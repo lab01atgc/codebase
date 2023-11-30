@@ -10,4 +10,4 @@ def predict(row, weights):
     if activation >= 0.0:
         return 1
     else:
-        return 0.0
+        eturn 0.0
